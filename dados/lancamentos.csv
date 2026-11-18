@@ -1,0 +1,960 @@
+lancamento_id,data,conta_id,cc_id,descricao,valor
+1,2025-01-01,3.1.01,1,Venda de mercadorias - doc 70332,42935.56
+2,2025-01-01,5.1.01,3,Receitas financeiras - doc 83975,750.31
+3,2025-01-02,4.2.02,1,Benefícios - doc 72277,4735.29
+4,2025-01-03,3.1.02,1,Prestação de serviços - doc 46585,47799.39
+5,2025-01-03,4.4.03,4,Software e licenças - doc 45614,2975.41
+6,2025-01-04,3.2.02,1,Devoluções - doc 34914,3804.97
+7,2025-01-05,3.1.01,1,Venda de mercadorias - doc 63964,59894.89
+8,2025-01-05,5.1.02,3,Despesas financeiras - doc 70515,12419.23
+9,2025-01-06,3.1.01,1,Venda de mercadorias - doc 24168,46299.73
+10,2025-01-06,3.1.01,1,Venda de mercadorias - doc 71694,77945.58
+11,2025-01-06,3.1.01,1,Venda de mercadorias - doc 55830,34530.03
+12,2025-01-06,3.2.01,1,Impostos sobre vendas - doc 24208,42587.93
+13,2025-01-07,4.2.01,2,Salários e encargos - doc 86019,8911.36
+14,2025-01-08,3.1.01,1,Venda de mercadorias - doc 44970,37124.97
+15,2025-01-08,4.2.02,1,Benefícios - doc 90120,2346.16
+16,2025-01-08,4.2.02,3,Benefícios - doc 95990,1894.23
+17,2025-01-08,4.3.01,1,Marketing e publicidade - doc 69829,7477.03
+18,2025-01-08,4.4.04,3,Serviços de terceiros - doc 30028,1633.6
+19,2025-01-09,3.2.01,1,Impostos sobre vendas - doc 15014,68848.89
+20,2025-01-09,4.4.02,2,Energia e utilidades - doc 42406,4720.22
+21,2025-01-09,4.4.03,4,Software e licenças - doc 47450,3342.64
+22,2025-01-10,4.3.03,2,Fretes sobre vendas - doc 52753,7997.25
+23,2025-01-11,3.1.01,1,Venda de mercadorias - doc 39219,51920.32
+24,2025-01-11,4.4.05,3,Viagens - doc 99016,772.42
+25,2025-01-13,3.2.02,1,Devoluções - doc 43386,5787.98
+26,2025-01-13,4.2.01,1,Salários e encargos - doc 32810,12642.9
+27,2025-01-13,4.2.02,3,Benefícios - doc 29342,2610.74
+28,2025-01-13,4.4.04,3,Serviços de terceiros - doc 38043,2072.92
+29,2025-01-13,4.4.04,4,Serviços de terceiros - doc 12560,2086.17
+30,2025-01-13,4.4.05,3,Viagens - doc 97670,605.72
+31,2025-01-13,5.1.01,3,Receitas financeiras - doc 13552,828.78
+32,2025-01-14,3.1.01,1,Venda de mercadorias - doc 36158,40675.55
+33,2025-01-14,4.2.01,2,Salários e encargos - doc 89516,13117.35
+34,2025-01-14,4.4.04,4,Serviços de terceiros - doc 86556,1816.03
+35,2025-01-14,4.4.05,1,Viagens - doc 38906,820.93
+36,2025-01-15,4.4.03,4,Software e licenças - doc 40735,2696.95
+37,2025-01-16,4.2.01,3,Salários e encargos - doc 32241,8109.72
+38,2025-01-17,4.3.03,2,Fretes sobre vendas - doc 63528,14895.17
+39,2025-01-17,4.4.01,3,Aluguel - doc 68446,5114.94
+40,2025-01-18,4.3.01,1,Marketing e publicidade - doc 25906,4121.43
+41,2025-01-18,4.4.05,1,Viagens - doc 73993,886.41
+42,2025-01-18,5.1.01,3,Receitas financeiras - doc 87580,685.2
+43,2025-01-19,3.2.01,1,Impostos sobre vendas - doc 88193,27034.12
+44,2025-01-19,3.2.02,1,Devoluções - doc 67154,6677.97
+45,2025-01-22,4.2.01,1,Salários e encargos - doc 90676,8295.49
+46,2025-01-22,4.3.02,1,Comissões de vendas - doc 53279,19699.35
+47,2025-01-22,4.3.03,2,Fretes sobre vendas - doc 62743,17925.2
+48,2025-01-23,4.4.04,3,Serviços de terceiros - doc 18418,1272.22
+49,2025-01-24,3.1.01,1,Venda de mercadorias - doc 50001,73329.32
+50,2025-01-24,4.2.01,1,Salários e encargos - doc 84593,13968.04
+51,2025-01-24,4.4.01,3,Aluguel - doc 65933,6665.94
+52,2025-01-25,4.2.01,4,Salários e encargos - doc 50687,5050.41
+53,2025-01-25,4.4.02,2,Energia e utilidades - doc 93579,3699.33
+54,2025-01-25,4.4.04,4,Serviços de terceiros - doc 59857,1414.32
+55,2025-01-26,3.1.01,1,Venda de mercadorias - doc 60140,80138.32
+56,2025-01-26,3.1.01,1,Venda de mercadorias - doc 15075,74246.2
+57,2025-01-26,3.1.01,1,Venda de mercadorias - doc 13101,64195.22
+58,2025-01-26,4.1.01,2,Custo das mercadorias vendidas - doc 80575,558669.6
+59,2025-01-26,4.2.01,2,Salários e encargos - doc 95813,7906.2
+60,2025-01-26,4.2.01,3,Salários e encargos - doc 96356,7917.87
+61,2025-01-27,4.2.01,4,Salários e encargos - doc 40784,6140.47
+62,2025-01-27,4.4.05,1,Viagens - doc 89069,557.84
+63,2025-01-28,3.1.01,1,Venda de mercadorias - doc 30866,35942.17
+64,2025-01-28,4.2.02,4,Benefícios - doc 23970,3474.16
+65,2025-01-28,4.3.01,1,Marketing e publicidade - doc 70901,5530.19
+66,2025-01-29,3.1.01,1,Venda de mercadorias - doc 39154,80135.06
+67,2025-01-29,3.2.01,1,Impostos sobre vendas - doc 44795,60438.24
+68,2025-01-29,3.2.02,1,Devoluções - doc 15817,4213.08
+69,2025-01-29,4.2.01,3,Salários e encargos - doc 21114,5997.9
+70,2025-01-29,4.2.02,2,Benefícios - doc 92544,6039.4
+71,2025-01-29,4.4.01,3,Aluguel - doc 81810,6396.49
+72,2025-01-29,4.4.04,4,Serviços de terceiros - doc 85456,1832.38
+73,2025-01-30,3.1.01,1,Venda de mercadorias - doc 97806,76450.05
+74,2025-01-30,3.1.01,1,Venda de mercadorias - doc 42527,62009.75
+75,2025-01-30,3.1.01,1,Venda de mercadorias - doc 39831,79287.84
+76,2025-01-30,4.3.01,1,Marketing e publicidade - doc 27477,6856.69
+77,2025-01-30,4.3.02,1,Comissões de vendas - doc 91678,12992.18
+78,2025-01-30,5.1.01,3,Receitas financeiras - doc 96900,794.55
+79,2025-01-31,3.1.02,1,Prestação de serviços - doc 56025,41422.54
+80,2025-01-31,4.2.01,4,Salários e encargos - doc 98184,6850.93
+81,2025-01-31,4.4.05,1,Viagens - doc 81582,331.32
+82,2025-02-01,3.1.01,1,Venda de mercadorias - doc 58351,54023.59
+83,2025-02-01,3.1.01,1,Venda de mercadorias - doc 25012,54024.96
+84,2025-02-02,4.4.01,3,Aluguel - doc 72616,6647.07
+85,2025-02-03,4.4.02,2,Energia e utilidades - doc 64548,1340.6
+86,2025-02-03,4.4.05,3,Viagens - doc 91927,266.63
+87,2025-02-04,3.1.01,1,Venda de mercadorias - doc 85470,92173.87
+88,2025-02-04,4.4.04,3,Serviços de terceiros - doc 91987,1773.92
+89,2025-02-05,3.1.01,1,Venda de mercadorias - doc 50768,81850.77
+90,2025-02-05,3.1.01,1,Venda de mercadorias - doc 85849,35759.9
+91,2025-02-05,4.3.01,1,Marketing e publicidade - doc 74340,7182.64
+92,2025-02-05,5.1.01,3,Receitas financeiras - doc 28643,1551.04
+93,2025-02-06,4.2.02,4,Benefícios - doc 80010,1279.29
+94,2025-02-06,4.4.04,4,Serviços de terceiros - doc 82350,7097.97
+95,2025-02-07,3.1.01,1,Venda de mercadorias - doc 89415,50812.17
+96,2025-02-07,3.1.01,1,Venda de mercadorias - doc 59192,70679.83
+97,2025-02-07,4.2.01,2,Salários e encargos - doc 21221,29817.93
+98,2025-02-07,4.4.04,3,Serviços de terceiros - doc 44687,2423.78
+99,2025-02-08,3.1.01,1,Venda de mercadorias - doc 31992,43733.68
+100,2025-02-08,3.1.01,1,Venda de mercadorias - doc 24168,46229.36
+101,2025-02-08,4.2.01,3,Salários e encargos - doc 94659,9756.87
+102,2025-02-08,4.2.01,4,Salários e encargos - doc 58368,5441.33
+103,2025-02-08,4.3.03,2,Fretes sobre vendas - doc 89997,19107.47
+104,2025-02-08,4.4.05,3,Viagens - doc 96662,438.49
+105,2025-02-09,4.2.01,1,Salários e encargos - doc 46211,7718.07
+106,2025-02-09,4.2.02,1,Benefícios - doc 40217,1949.94
+107,2025-02-09,4.2.02,3,Benefícios - doc 87278,1625.94
+108,2025-02-09,4.3.02,1,Comissões de vendas - doc 73372,8325.94
+109,2025-02-09,4.3.03,2,Fretes sobre vendas - doc 70910,10952.12
+110,2025-02-09,4.4.01,3,Aluguel - doc 24953,6448.71
+111,2025-02-10,4.2.01,4,Salários e encargos - doc 72031,2968.32
+112,2025-02-10,4.2.02,4,Benefícios - doc 26591,764.38
+113,2025-02-10,4.4.02,2,Energia e utilidades - doc 83147,2440.54
+114,2025-02-10,4.4.03,4,Software e licenças - doc 66207,3795.26
+115,2025-02-11,4.2.01,1,Salários e encargos - doc 82848,9238.59
+116,2025-02-11,4.2.02,2,Benefícios - doc 25670,5926.86
+117,2025-02-12,4.2.01,1,Salários e encargos - doc 46655,7824.55
+118,2025-02-12,4.2.02,4,Benefícios - doc 11854,1421.25
+119,2025-02-14,3.2.02,1,Devoluções - doc 96706,20460.65
+120,2025-02-14,4.1.01,2,Custo das mercadorias vendidas - doc 23833,140911.19
+121,2025-02-14,4.4.05,1,Viagens - doc 69048,2890.99
+122,2025-02-15,3.1.01,1,Venda de mercadorias - doc 61990,78735.64
+123,2025-02-15,4.2.02,1,Benefícios - doc 42951,2924.32
+124,2025-02-15,4.3.03,2,Fretes sobre vendas - doc 84691,9929.11
+125,2025-02-15,4.4.03,4,Software e licenças - doc 87139,5499.45
+126,2025-02-15,4.4.05,3,Viagens - doc 44675,288.42
+127,2025-02-16,3.1.01,1,Venda de mercadorias - doc 13365,31917.67
+128,2025-02-16,4.1.01,2,Custo das mercadorias vendidas - doc 57472,126966.47
+129,2025-02-18,4.3.02,1,Comissões de vendas - doc 87656,10106.33
+130,2025-02-19,3.1.01,1,Venda de mercadorias - doc 98781,52232.63
+131,2025-02-19,4.2.01,4,Salários e encargos - doc 79588,5190.12
+132,2025-02-19,4.4.02,2,Energia e utilidades - doc 25525,2215.44
+133,2025-02-20,3.1.01,1,Venda de mercadorias - doc 31465,76939.79
+134,2025-02-20,4.3.02,1,Comissões de vendas - doc 70931,6451.39
+135,2025-02-21,4.3.01,1,Marketing e publicidade - doc 23446,7301.28
+136,2025-02-21,5.1.01,3,Receitas financeiras - doc 44816,1373.72
+137,2025-02-22,3.1.01,1,Venda de mercadorias - doc 50888,63875.44
+138,2025-02-22,3.2.01,1,Impostos sobre vendas - doc 25866,135583.2
+139,2025-02-22,4.2.01,4,Salários e encargos - doc 82544,4557.91
+140,2025-02-22,4.4.05,3,Viagens - doc 87304,439.95
+141,2025-02-23,3.1.01,1,Venda de mercadorias - doc 35995,70778.82
+142,2025-02-23,4.2.02,1,Benefícios - doc 50189,2172.24
+143,2025-02-24,4.2.02,3,Benefícios - doc 78765,2912.19
+144,2025-02-25,3.1.01,1,Venda de mercadorias - doc 43586,33816.65
+145,2025-02-25,4.2.01,3,Salários e encargos - doc 72402,12041.65
+146,2025-02-25,4.4.04,3,Serviços de terceiros - doc 37659,929.98
+147,2025-02-26,4.2.01,1,Salários e encargos - doc 88139,9301.81
+148,2025-02-26,4.3.02,1,Comissões de vendas - doc 67091,8508.6
+149,2025-02-26,4.4.02,2,Energia e utilidades - doc 42530,2040.03
+150,2025-02-26,5.1.02,3,Despesas financeiras - doc 50319,11655.66
+151,2025-02-27,3.1.01,1,Venda de mercadorias - doc 89593,77506.38
+152,2025-02-27,3.1.02,1,Prestação de serviços - doc 92213,91694.7
+153,2025-02-27,4.1.01,2,Custo das mercadorias vendidas - doc 66822,284207.35
+154,2025-02-28,3.2.01,1,Impostos sobre vendas - doc 88697,64132.75
+155,2025-02-28,4.3.01,1,Marketing e publicidade - doc 11607,10429.84
+156,2025-02-28,4.4.01,3,Aluguel - doc 18564,4692.61
+157,2025-03-01,3.2.01,1,Impostos sobre vendas - doc 63476,116751.7
+158,2025-03-02,5.1.01,3,Receitas financeiras - doc 67779,1622.49
+159,2025-03-03,3.1.01,1,Venda de mercadorias - doc 62976,33581.84
+160,2025-03-03,4.2.01,4,Salários e encargos - doc 44737,10210.65
+161,2025-03-03,4.4.03,4,Software e licenças - doc 49210,3136.01
+162,2025-03-04,3.1.01,1,Venda de mercadorias - doc 17104,61239.3
+163,2025-03-04,4.2.01,3,Salários e encargos - doc 23069,7404.83
+164,2025-03-04,4.4.04,3,Serviços de terceiros - doc 57049,927.63
+165,2025-03-05,4.2.01,4,Salários e encargos - doc 71537,8046.09
+166,2025-03-06,3.1.01,1,Venda de mercadorias - doc 69614,58915.78
+167,2025-03-06,3.1.01,1,Venda de mercadorias - doc 77952,31425.17
+168,2025-03-06,4.4.03,4,Software e licenças - doc 87014,2919.85
+169,2025-03-07,4.4.05,3,Viagens - doc 98835,568.11
+170,2025-03-08,4.2.02,2,Benefícios - doc 22903,931.85
+171,2025-03-08,4.4.02,2,Energia e utilidades - doc 93611,3874.51
+172,2025-03-08,4.4.04,3,Serviços de terceiros - doc 85341,1733.99
+173,2025-03-08,4.4.05,3,Viagens - doc 91381,556.69
+174,2025-03-09,3.1.01,1,Venda de mercadorias - doc 14809,48994.53
+175,2025-03-09,4.4.04,4,Serviços de terceiros - doc 99889,2811.02
+176,2025-03-10,3.1.02,1,Prestação de serviços - doc 25915,28087.32
+177,2025-03-10,4.2.02,2,Benefícios - doc 66881,878.54
+178,2025-03-10,4.3.03,2,Fretes sobre vendas - doc 86931,15269.14
+179,2025-03-10,4.3.03,2,Fretes sobre vendas - doc 96499,14058.69
+180,2025-03-11,3.1.01,1,Venda de mercadorias - doc 81118,54557.66
+181,2025-03-11,3.1.01,1,Venda de mercadorias - doc 70552,43908.81
+182,2025-03-11,3.1.01,1,Venda de mercadorias - doc 57419,22061.89
+183,2025-03-11,4.2.02,1,Benefícios - doc 79942,3020.09
+184,2025-03-12,3.1.01,1,Venda de mercadorias - doc 10150,24148.51
+185,2025-03-13,4.2.01,1,Salários e encargos - doc 41300,8463.38
+186,2025-03-13,4.2.01,2,Salários e encargos - doc 29936,9882.93
+187,2025-03-13,4.4.01,3,Aluguel - doc 91226,18024.14
+188,2025-03-13,4.4.04,4,Serviços de terceiros - doc 84177,1512.52
+189,2025-03-14,3.1.01,1,Venda de mercadorias - doc 51224,40584.45
+190,2025-03-14,3.1.01,1,Venda de mercadorias - doc 96200,59701.29
+191,2025-03-14,3.1.01,1,Venda de mercadorias - doc 91609,51303.31
+192,2025-03-14,4.3.01,1,Marketing e publicidade - doc 33600,7982.42
+193,2025-03-15,3.1.01,1,Venda de mercadorias - doc 62488,25497.25
+194,2025-03-15,3.1.02,1,Prestação de serviços - doc 13783,15683.5
+195,2025-03-15,3.2.02,1,Devoluções - doc 25396,10447.52
+196,2025-03-15,4.2.01,1,Salários e encargos - doc 84946,7157.33
+197,2025-03-15,4.2.01,3,Salários e encargos - doc 12011,4205.81
+198,2025-03-15,4.4.02,2,Energia e utilidades - doc 43289,4206.53
+199,2025-03-16,3.1.01,1,Venda de mercadorias - doc 74942,51004.74
+200,2025-03-16,3.1.01,1,Venda de mercadorias - doc 25194,38062.04
+201,2025-03-16,3.1.01,1,Venda de mercadorias - doc 77449,30643.4
+202,2025-03-16,4.4.04,3,Serviços de terceiros - doc 84963,1106.55
+203,2025-03-17,3.1.01,1,Venda de mercadorias - doc 47777,43664.11
+204,2025-03-17,4.1.01,2,Custo das mercadorias vendidas - doc 45838,244343.25
+205,2025-03-17,4.3.02,1,Comissões de vendas - doc 46208,8145.18
+206,2025-03-18,3.2.01,1,Impostos sobre vendas - doc 22217,78242.52
+207,2025-03-18,4.2.01,1,Salários e encargos - doc 34727,8138.42
+208,2025-03-18,4.4.03,4,Software e licenças - doc 55293,1140.06
+209,2025-03-19,3.1.01,1,Venda de mercadorias - doc 21542,40857.12
+210,2025-03-19,4.3.01,1,Marketing e publicidade - doc 32280,8653.99
+211,2025-03-20,4.3.02,1,Comissões de vendas - doc 19150,5762.41
+212,2025-03-21,3.1.01,1,Venda de mercadorias - doc 96846,32205.15
+213,2025-03-21,3.1.01,1,Venda de mercadorias - doc 43082,23703.99
+214,2025-03-21,4.4.05,3,Viagens - doc 42850,318.6
+215,2025-03-21,5.1.01,3,Receitas financeiras - doc 50492,1304.38
+216,2025-03-22,3.1.01,1,Venda de mercadorias - doc 64165,59246.98
+217,2025-03-22,4.2.02,1,Benefícios - doc 51505,1560.28
+218,2025-03-22,4.3.01,1,Marketing e publicidade - doc 32946,6919.91
+219,2025-03-22,4.4.03,4,Software e licenças - doc 67898,1690.47
+220,2025-03-22,4.4.04,4,Serviços de terceiros - doc 11061,2839.08
+221,2025-03-23,4.1.01,2,Custo das mercadorias vendidas - doc 64459,297752.52
+222,2025-03-23,4.2.01,2,Salários e encargos - doc 60604,5824.46
+223,2025-03-23,4.2.02,3,Benefícios - doc 49251,4476.06
+224,2025-03-24,4.2.02,2,Benefícios - doc 93066,1854.39
+225,2025-03-24,4.3.02,1,Comissões de vendas - doc 64387,6846.01
+226,2025-03-24,4.3.03,2,Fretes sobre vendas - doc 86011,10728.47
+227,2025-03-24,4.4.05,1,Viagens - doc 75107,3125.0
+228,2025-03-24,5.1.02,3,Despesas financeiras - doc 27224,11730.34
+229,2025-03-25,4.2.01,1,Salários e encargos - doc 52176,11738.52
+230,2025-03-26,4.2.01,2,Salários e encargos - doc 95461,4316.54
+231,2025-03-26,4.2.02,4,Benefícios - doc 17355,3533.35
+232,2025-03-27,3.1.01,1,Venda de mercadorias - doc 52372,22046.75
+233,2025-03-28,3.1.01,1,Venda de mercadorias - doc 34586,47873.45
+234,2025-03-28,4.2.01,3,Salários e encargos - doc 78937,3165.74
+235,2025-03-28,4.2.01,3,Salários e encargos - doc 69890,7407.5
+236,2025-03-28,4.2.02,1,Benefícios - doc 59808,2413.05
+237,2025-03-28,4.4.04,3,Serviços de terceiros - doc 59986,1376.56
+238,2025-03-29,3.1.02,1,Prestação de serviços - doc 92578,23388.89
+239,2025-03-30,3.1.01,1,Venda de mercadorias - doc 82102,48543.04
+240,2025-03-30,3.1.02,1,Prestação de serviços - doc 73532,25087.26
+241,2025-03-30,4.2.01,2,Salários e encargos - doc 96991,10127.78
+242,2025-03-30,4.2.02,2,Benefícios - doc 21846,2249.84
+243,2025-03-30,4.3.02,1,Comissões de vendas - doc 27892,11468.91
+244,2025-03-31,3.2.02,1,Devoluções - doc 94896,9892.13
+245,2025-04-02,4.2.02,4,Benefícios - doc 49535,994.37
+246,2025-04-03,3.1.01,1,Venda de mercadorias - doc 11824,46297.87
+247,2025-04-03,3.1.01,1,Venda de mercadorias - doc 24201,76744.88
+248,2025-04-03,4.4.01,3,Aluguel - doc 18609,5316.11
+249,2025-04-04,3.2.02,1,Devoluções - doc 80457,3805.33
+250,2025-04-04,3.2.02,1,Devoluções - doc 27781,3365.18
+251,2025-04-04,4.4.05,1,Viagens - doc 30280,703.52
+252,2025-04-05,3.1.01,1,Venda de mercadorias - doc 44663,51269.94
+253,2025-04-05,4.2.01,4,Salários e encargos - doc 10371,6475.32
+254,2025-04-05,4.4.01,3,Aluguel - doc 91830,2570.4
+255,2025-04-05,4.4.04,3,Serviços de terceiros - doc 18799,1764.81
+256,2025-04-06,4.2.02,1,Benefícios - doc 13379,1694.81
+257,2025-04-08,3.1.01,1,Venda de mercadorias - doc 26199,72047.2
+258,2025-04-08,3.2.02,1,Devoluções - doc 60940,3314.98
+259,2025-04-08,4.2.02,2,Benefícios - doc 52437,1711.28
+260,2025-04-08,4.2.02,4,Benefícios - doc 96363,862.18
+261,2025-04-08,4.3.03,2,Fretes sobre vendas - doc 23022,8931.78
+262,2025-04-09,4.2.02,1,Benefícios - doc 24408,3654.39
+263,2025-04-11,3.1.02,1,Prestação de serviços - doc 39015,50480.89
+264,2025-04-11,4.2.01,2,Salários e encargos - doc 41925,29675.26
+265,2025-04-11,4.4.01,3,Aluguel - doc 26540,4438.4
+266,2025-04-11,4.4.03,4,Software e licenças - doc 62262,5171.18
+267,2025-04-11,4.4.04,4,Serviços de terceiros - doc 56346,1785.96
+268,2025-04-12,3.1.01,1,Venda de mercadorias - doc 58689,44529.46
+269,2025-04-12,4.3.03,2,Fretes sobre vendas - doc 58147,15817.22
+270,2025-04-12,4.4.05,1,Viagens - doc 37884,788.23
+271,2025-04-12,4.4.05,3,Viagens - doc 46512,540.82
+272,2025-04-13,3.1.01,1,Venda de mercadorias - doc 44362,37215.77
+273,2025-04-14,4.1.01,2,Custo das mercadorias vendidas - doc 30253,165780.12
+274,2025-04-14,4.2.02,3,Benefícios - doc 24896,2480.49
+275,2025-04-14,4.4.02,2,Energia e utilidades - doc 95814,2318.19
+276,2025-04-14,4.4.03,4,Software e licenças - doc 69441,3464.88
+277,2025-04-15,3.1.01,1,Venda de mercadorias - doc 61717,78941.88
+278,2025-04-15,3.2.01,1,Impostos sobre vendas - doc 49608,193441.33
+279,2025-04-15,4.2.01,1,Salários e encargos - doc 37801,17984.87
+280,2025-04-16,4.3.01,1,Marketing e publicidade - doc 62640,26084.74
+281,2025-04-16,4.4.04,3,Serviços de terceiros - doc 22219,1083.47
+282,2025-04-17,4.2.02,3,Benefícios - doc 18330,2031.27
+283,2025-04-17,4.4.02,2,Energia e utilidades - doc 22999,2569.02
+284,2025-04-17,4.4.05,1,Viagens - doc 73201,634.0
+285,2025-04-18,3.1.01,1,Venda de mercadorias - doc 93695,82176.34
+286,2025-04-18,3.1.02,1,Prestação de serviços - doc 89964,43804.34
+287,2025-04-18,4.4.04,4,Serviços de terceiros - doc 26021,2094.38
+288,2025-04-18,4.4.04,4,Serviços de terceiros - doc 63845,2217.76
+289,2025-04-18,4.4.05,3,Viagens - doc 25058,857.09
+290,2025-04-19,4.1.01,2,Custo das mercadorias vendidas - doc 64379,176070.35
+291,2025-04-19,4.2.02,2,Benefícios - doc 12068,4287.61
+292,2025-04-19,4.4.04,4,Serviços de terceiros - doc 97819,1008.59
+293,2025-04-19,4.4.05,1,Viagens - doc 96079,846.02
+294,2025-04-20,4.2.02,4,Benefícios - doc 78347,783.77
+295,2025-04-20,4.3.02,1,Comissões de vendas - doc 63492,32189.44
+296,2025-04-20,4.4.01,3,Aluguel - doc 46046,6318.31
+297,2025-04-20,4.4.02,2,Energia e utilidades - doc 24996,3200.37
+298,2025-04-22,3.1.01,1,Venda de mercadorias - doc 58311,48489.7
+299,2025-04-22,3.1.01,1,Venda de mercadorias - doc 98125,43263.02
+300,2025-04-22,4.4.04,3,Serviços de terceiros - doc 21957,1166.22
+301,2025-04-22,5.1.02,3,Despesas financeiras - doc 45054,11827.74
+302,2025-04-24,3.1.01,1,Venda de mercadorias - doc 98188,56102.44
+303,2025-04-24,4.1.01,2,Custo das mercadorias vendidas - doc 95841,204798.46
+304,2025-04-24,4.2.02,4,Benefícios - doc 70036,865.56
+305,2025-04-25,3.1.01,1,Venda de mercadorias - doc 80329,39245.86
+306,2025-04-25,4.2.01,3,Salários e encargos - doc 37152,7743.49
+307,2025-04-25,4.2.01,4,Salários e encargos - doc 88116,11599.52
+308,2025-04-25,5.1.01,3,Receitas financeiras - doc 91490,1594.06
+309,2025-04-26,3.1.01,1,Venda de mercadorias - doc 59941,80877.31
+310,2025-04-26,3.1.01,1,Venda de mercadorias - doc 98452,73039.57
+311,2025-04-26,4.2.02,1,Benefícios - doc 96646,1734.34
+312,2025-04-27,4.2.01,1,Salários e encargos - doc 96870,9504.2
+313,2025-04-27,4.2.01,3,Salários e encargos - doc 82641,14131.61
+314,2025-04-27,5.1.01,3,Receitas financeiras - doc 90422,1640.31
+315,2025-04-28,3.1.01,1,Venda de mercadorias - doc 69609,77084.45
+316,2025-04-28,3.1.01,1,Venda de mercadorias - doc 86619,79189.47
+317,2025-04-28,4.2.01,1,Salários e encargos - doc 22015,6866.48
+318,2025-04-28,4.3.03,2,Fretes sobre vendas - doc 99873,14595.73
+319,2025-04-29,3.2.02,1,Devoluções - doc 69459,9230.95
+320,2025-04-30,4.4.04,3,Serviços de terceiros - doc 21188,1166.18
+321,2025-05-02,3.1.01,1,Venda de mercadorias - doc 64287,49025.84
+322,2025-05-02,4.2.02,1,Benefícios - doc 50685,1281.13
+323,2025-05-03,3.1.01,1,Venda de mercadorias - doc 89570,59300.9
+324,2025-05-03,4.2.02,1,Benefícios - doc 14929,1746.42
+325,2025-05-03,4.4.04,4,Serviços de terceiros - doc 55851,2162.2
+326,2025-05-04,4.2.01,1,Salários e encargos - doc 35415,17491.78
+327,2025-05-04,4.2.01,2,Salários e encargos - doc 35856,10003.81
+328,2025-05-05,3.1.01,1,Venda de mercadorias - doc 45804,115124.58
+329,2025-05-05,3.2.01,1,Impostos sobre vendas - doc 53007,31512.5
+330,2025-05-05,4.2.01,2,Salários e encargos - doc 32740,9974.15
+331,2025-05-05,4.4.04,4,Serviços de terceiros - doc 96980,1881.43
+332,2025-05-06,3.1.01,1,Venda de mercadorias - doc 38255,66069.01
+333,2025-05-06,4.2.01,3,Salários e encargos - doc 92306,11558.38
+334,2025-05-06,4.3.02,1,Comissões de vendas - doc 91018,40429.92
+335,2025-05-08,4.2.01,2,Salários e encargos - doc 43550,9309.28
+336,2025-05-08,4.3.03,2,Fretes sobre vendas - doc 78676,14198.79
+337,2025-05-09,3.2.01,1,Impostos sobre vendas - doc 11013,82096.73
+338,2025-05-10,3.1.01,1,Venda de mercadorias - doc 98338,111113.78
+339,2025-05-10,4.2.02,2,Benefícios - doc 20057,5962.36
+340,2025-05-11,3.1.01,1,Venda de mercadorias - doc 45665,77588.91
+341,2025-05-11,4.4.04,4,Serviços de terceiros - doc 28537,1778.16
+342,2025-05-11,5.1.01,3,Receitas financeiras - doc 35166,760.3
+343,2025-05-12,3.1.01,1,Venda de mercadorias - doc 16522,62861.63
+344,2025-05-12,4.2.02,1,Benefícios - doc 70521,2124.1
+345,2025-05-13,4.1.01,2,Custo das mercadorias vendidas - doc 47947,220749.27
+346,2025-05-13,4.3.03,2,Fretes sobre vendas - doc 50668,14331.59
+347,2025-05-13,4.4.02,2,Energia e utilidades - doc 54350,3193.77
+348,2025-05-14,4.3.03,2,Fretes sobre vendas - doc 20308,15134.1
+349,2025-05-14,4.4.02,2,Energia e utilidades - doc 98984,5242.0
+350,2025-05-15,4.4.01,3,Aluguel - doc 78517,5460.66
+351,2025-05-16,3.1.02,1,Prestação de serviços - doc 50425,29109.35
+352,2025-05-16,5.1.01,3,Receitas financeiras - doc 30308,1094.04
+353,2025-05-17,3.1.02,1,Prestação de serviços - doc 15952,24518.19
+354,2025-05-17,3.2.02,1,Devoluções - doc 56421,7620.8
+355,2025-05-17,4.2.01,1,Salários e encargos - doc 55793,7881.92
+356,2025-05-17,4.2.02,1,Benefícios - doc 69233,1809.86
+357,2025-05-17,4.2.02,3,Benefícios - doc 60394,4499.9
+358,2025-05-17,4.4.01,3,Aluguel - doc 89928,12231.32
+359,2025-05-18,3.2.02,1,Devoluções - doc 19447,4129.33
+360,2025-05-18,4.4.04,3,Serviços de terceiros - doc 98916,4927.15
+361,2025-05-19,3.1.01,1,Venda de mercadorias - doc 65576,98514.25
+362,2025-05-19,4.1.01,2,Custo das mercadorias vendidas - doc 64747,80576.16
+363,2025-05-19,4.2.01,4,Salários e encargos - doc 52363,4645.75
+364,2025-05-19,4.2.02,4,Benefícios - doc 89299,1022.37
+365,2025-05-19,4.3.03,2,Fretes sobre vendas - doc 61873,6269.2
+366,2025-05-20,3.1.01,1,Venda de mercadorias - doc 73656,83220.8
+367,2025-05-20,3.1.01,1,Venda de mercadorias - doc 24918,77687.87
+368,2025-05-20,4.2.01,4,Salários e encargos - doc 29786,5274.24
+369,2025-05-20,4.4.05,1,Viagens - doc 21104,1083.29
+370,2025-05-21,4.1.01,2,Custo das mercadorias vendidas - doc 63088,167097.76
+371,2025-05-21,4.2.01,1,Salários e encargos - doc 76840,9867.41
+372,2025-05-21,4.2.01,4,Salários e encargos - doc 92210,4665.86
+373,2025-05-21,4.2.01,4,Salários e encargos - doc 51436,3514.2
+374,2025-05-21,4.2.02,4,Benefícios - doc 72341,446.45
+375,2025-05-21,4.4.03,4,Software e licenças - doc 53863,8839.39
+376,2025-05-22,3.1.02,1,Prestação de serviços - doc 38903,36890.5
+377,2025-05-22,3.2.02,1,Devoluções - doc 15544,7355.92
+378,2025-05-22,4.4.05,3,Viagens - doc 94675,233.68
+379,2025-05-23,4.1.01,2,Custo das mercadorias vendidas - doc 25096,211576.65
+380,2025-05-23,4.4.05,1,Viagens - doc 50577,884.58
+381,2025-05-24,3.1.01,1,Venda de mercadorias - doc 20693,74739.7
+382,2025-05-24,4.4.05,3,Viagens - doc 22249,308.37
+383,2025-05-25,3.1.01,1,Venda de mercadorias - doc 68079,46757.61
+384,2025-05-25,3.1.01,1,Venda de mercadorias - doc 77154,84980.6
+385,2025-05-25,3.2.01,1,Impostos sobre vendas - doc 47938,84318.89
+386,2025-05-25,3.2.01,1,Impostos sobre vendas - doc 25726,40012.36
+387,2025-05-25,5.1.01,3,Receitas financeiras - doc 28030,609.81
+388,2025-05-26,4.2.02,4,Benefícios - doc 52143,1200.05
+389,2025-05-26,4.3.01,1,Marketing e publicidade - doc 55015,14493.96
+390,2025-05-26,5.1.02,3,Despesas financeiras - doc 23256,12424.9
+391,2025-05-27,3.2.02,1,Devoluções - doc 62044,5379.16
+392,2025-05-28,4.4.04,4,Serviços de terceiros - doc 86380,1205.59
+393,2025-05-29,3.1.01,1,Venda de mercadorias - doc 67939,104690.41
+394,2025-05-29,4.3.01,1,Marketing e publicidade - doc 21053,9450.94
+395,2025-05-30,4.2.02,4,Benefícios - doc 34672,891.5
+396,2025-05-30,4.4.05,3,Viagens - doc 97878,447.72
+397,2025-05-31,3.1.01,1,Venda de mercadorias - doc 96761,126557.56
+398,2025-05-31,4.2.01,3,Salários e encargos - doc 74764,10598.03
+399,2025-05-31,4.4.05,1,Viagens - doc 83259,658.35
+400,2025-05-31,4.4.05,3,Viagens - doc 78995,425.63
+401,2025-05-31,5.1.01,3,Receitas financeiras - doc 39693,390.7
+402,2025-06-01,3.1.02,1,Prestação de serviços - doc 53947,19489.94
+403,2025-06-02,4.2.02,2,Benefícios - doc 36144,1015.82
+404,2025-06-03,4.2.01,2,Salários e encargos - doc 81313,9870.44
+405,2025-06-05,3.2.02,1,Devoluções - doc 79176,7224.88
+406,2025-06-05,4.4.04,4,Serviços de terceiros - doc 67432,1276.03
+407,2025-06-06,3.1.01,1,Venda de mercadorias - doc 22021,41116.2
+408,2025-06-07,3.1.01,1,Venda de mercadorias - doc 58655,66331.89
+409,2025-06-07,3.1.01,1,Venda de mercadorias - doc 69130,49706.87
+410,2025-06-07,4.2.02,4,Benefícios - doc 16265,1142.33
+411,2025-06-08,3.1.02,1,Prestação de serviços - doc 95191,26542.05
+412,2025-06-08,4.2.01,1,Salários e encargos - doc 64600,13815.52
+413,2025-06-08,4.2.01,4,Salários e encargos - doc 23587,3378.16
+414,2025-06-09,4.4.04,3,Serviços de terceiros - doc 19835,1920.36
+415,2025-06-09,5.1.01,3,Receitas financeiras - doc 24869,1412.33
+416,2025-06-10,3.1.01,1,Venda de mercadorias - doc 31012,34862.36
+417,2025-06-10,4.2.02,3,Benefícios - doc 77552,4502.34
+418,2025-06-10,4.2.02,4,Benefícios - doc 95948,800.12
+419,2025-06-10,4.4.03,4,Software e licenças - doc 65851,3117.7
+420,2025-06-11,3.1.02,1,Prestação de serviços - doc 29142,39588.29
+421,2025-06-12,3.1.01,1,Venda de mercadorias - doc 82684,33055.69
+422,2025-06-12,3.1.02,1,Prestação de serviços - doc 22987,14655.16
+423,2025-06-12,4.2.01,1,Salários e encargos - doc 84798,21795.48
+424,2025-06-12,4.2.01,2,Salários e encargos - doc 78951,19625.29
+425,2025-06-12,4.2.01,4,Salários e encargos - doc 92346,6638.61
+426,2025-06-12,4.2.02,4,Benefícios - doc 53506,577.88
+427,2025-06-12,4.4.01,3,Aluguel - doc 44959,3385.32
+428,2025-06-12,4.4.05,3,Viagens - doc 20077,615.72
+429,2025-06-12,4.4.05,3,Viagens - doc 20077,615.72
+430,2025-06-13,3.1.01,1,Venda de mercadorias - doc 68893,47712.71
+431,2025-06-13,4.4.05,1,Viagens - doc 14244,1538.11
+432,2025-06-14,3.1.01,1,Venda de mercadorias - doc 67340,49459.14
+433,2025-06-14,4.1.01,2,Custo das mercadorias vendidas - doc 91633,386909.04
+434,2025-06-14,4.3.01,1,Marketing e publicidade - doc 62431,23751.82
+435,2025-06-14,4.4.04,3,Serviços de terceiros - doc 17518,1668.96
+436,2025-06-15,3.1.01,1,Venda de mercadorias - doc 26341,69738.69
+437,2025-06-15,3.1.01,1,Venda de mercadorias - doc 47363,66582.81
+438,2025-06-15,4.2.02,2,Benefícios - doc 15741,1091.71
+439,2025-06-15,4.4.03,4,Software e licenças - doc 31842,2202.21
+440,2025-06-15,4.4.05,3,Viagens - doc 85225,756.6
+441,2025-06-16,3.1.01,1,Venda de mercadorias - doc 16839,72480.22
+442,2025-06-16,3.2.01,1,Impostos sobre vendas - doc 28191,64606.5
+443,2025-06-16,4.2.01,3,Salários e encargos - doc 15706,22217.94
+444,2025-06-16,4.4.01,3,Aluguel - doc 78062,5324.9
+445,2025-06-16,5.1.02,3,Despesas financeiras - doc 77861,12395.5
+446,2025-06-17,3.1.01,1,Venda de mercadorias - doc 77286,61620.4
+447,2025-06-17,3.1.01,1,Venda de mercadorias - doc 29313,38633.4
+448,2025-06-18,3.2.02,1,Devoluções - doc 65476,9106.7
+449,2025-06-19,3.1.01,1,Venda de mercadorias - doc 77621,34689.92
+450,2025-06-19,4.3.03,2,Fretes sobre vendas - doc 41711,48158.17
+451,2025-06-19,4.4.05,1,Viagens - doc 89310,1042.23
+452,2025-06-20,3.1.01,1,Venda de mercadorias - doc 13495,42401.65
+453,2025-06-20,3.2.02,1,Devoluções - doc 47762,4635.79
+454,2025-06-20,4.4.03,4,Software e licenças - doc 68183,4407.39
+455,2025-06-20,4.4.04,3,Serviços de terceiros - doc 93816,1288.48
+456,2025-06-20,4.4.04,,Serviços de terceiros - doc 26545,1743.25
+457,2025-06-21,4.1.01,2,Custo das mercadorias vendidas - doc 69914,264530.86
+458,2025-06-21,4.2.02,1,Benefícios - doc 99742,4674.69
+459,2025-06-21,5.1.01,3,Receitas financeiras - doc 42717,1619.01
+460,2025-06-22,3.1.01,1,Venda de mercadorias - doc 23446,45924.45
+461,2025-06-22,4.2.01,4,Salários e encargos - doc 53583,5775.67
+462,2025-06-22,4.4.04,4,Serviços de terceiros - doc 18812,2147.32
+463,2025-06-23,3.2.01,1,Impostos sobre vendas - doc 71487,170114.17
+464,2025-06-23,4.2.02,2,Benefícios - doc 48462,2369.46
+465,2025-06-24,3.2.02,1,Devoluções - doc 24573,3361.94
+466,2025-06-24,4.2.01,4,Salários e encargos - doc 86271,2314.0
+467,2025-06-25,3.1.01,1,Venda de mercadorias - doc 20993,68570.5
+468,2025-06-25,3.1.01,1,Venda de mercadorias - doc 45755,49117.33
+469,2025-06-25,4.2.02,2,Benefícios - doc 36422,1565.75
+470,2025-06-26,3.1.01,1,Venda de mercadorias - doc 28140,66571.12
+471,2025-06-26,3.1.01,1,Venda de mercadorias - doc 42768,69936.42
+472,2025-06-26,3.1.01,1,Venda de mercadorias - doc 55820,54163.71
+473,2025-06-26,4.4.01,3,Aluguel - doc 65640,3803.62
+474,2025-06-27,3.1.01,1,Venda de mercadorias - doc 72991,43831.5
+475,2025-06-27,3.1.01,1,Venda de mercadorias - doc 39102,65401.0
+476,2025-06-27,4.2.02,1,Benefícios - doc 32949,2432.66
+477,2025-06-27,4.4.02,2,Energia e utilidades - doc 33652,7938.66
+478,2025-06-28,4.2.02,4,Benefícios - doc 45811,961.41
+479,2025-06-28,4.4.04,4,Serviços de terceiros - doc 14561,1923.11
+480,2025-06-29,3.1.01,1,Venda de mercadorias - doc 94040,28168.36
+481,2025-06-29,4.3.02,1,Comissões de vendas - doc 75513,38962.91
+482,2025-06-30,4.4.01,3,Aluguel - doc 20828,5626.86
+483,2025-07-01,3.1.01,1,Venda de mercadorias - doc 94192,40653.73
+484,2025-07-01,4.2.01,1,Salários e encargos - doc 94076,12735.52
+485,2025-07-01,4.2.01,2,Salários e encargos - doc 92203,12604.17
+486,2025-07-02,4.2.01,1,Salários e encargos - doc 44688,12571.46
+487,2025-07-02,4.4.03,4,Software e licenças - doc 35513,4409.69
+488,2025-07-02,4.4.05,1,Viagens - doc 15100,1611.71
+489,2025-07-03,4.2.01,1,Salários e encargos - doc 85598,10089.7
+490,2025-07-03,4.3.01,1,Marketing e publicidade - doc 69930,7636.85
+491,2025-07-04,3.1.01,1,Venda de mercadorias - doc 78903,77014.42
+492,2025-07-05,3.1.01,1,Venda de mercadorias - doc 85353,76464.68
+493,2025-07-06,3.1.01,1,Venda de mercadorias - doc 85009,65580.12
+494,2025-07-06,3.1.01,1,Venda de mercadorias - doc 21300,36014.95
+495,2025-07-06,3.2.01,1,Impostos sobre vendas - doc 66704,99288.44
+496,2025-07-06,4.3.03,2,Fretes sobre vendas - doc 91851,23415.74
+497,2025-07-06,5.1.01,3,Receitas financeiras - doc 90805,1295.0
+498,2025-07-07,3.1.01,1,Venda de mercadorias - doc 63843,67408.64
+499,2025-07-08,3.1.01,1,Venda de mercadorias - doc 72739,62411.89
+500,2025-07-08,3.1.01,1,Venda de mercadorias - doc 19666,60069.97
+501,2025-07-09,4.4.04,3,Serviços de terceiros - doc 99181,1029.92
+502,2025-07-10,3.1.01,1,Venda de mercadorias - doc 57303,72708.14
+503,2025-07-10,4.3.02,1,Comissões de vendas - doc 22245,18941.75
+504,2025-07-10,5.1.02,3,Despesas financeiras - doc 58281,4066.65
+505,2025-07-11,4.2.02,4,Benefícios - doc 30885,1831.07
+506,2025-07-11,4.4.04,4,Serviços de terceiros - doc 57920,2767.68
+507,2025-07-12,3.1.01,1,Venda de mercadorias - doc 50539,29527.41
+508,2025-07-12,4.1.01,2,Custo das mercadorias vendidas - doc 78012,165650.05
+509,2025-07-12,4.2.02,1,Benefícios - doc 77499,1489.66
+510,2025-07-13,4.2.01,3,Salários e encargos - doc 19564,6137.12
+511,2025-07-13,4.2.02,1,Benefícios - doc 83616,2233.56
+512,2025-07-13,4.2.02,3,Benefícios - doc 64805,1375.96
+513,2025-07-13,4.3.01,1,Marketing e publicidade - doc 38199,7040.11
+514,2025-07-13,4.4.03,4,Software e licenças - doc 83638,4282.87
+515,2025-07-13,5.1.01,3,Receitas financeiras - doc 49221,1740.93
+516,2025-07-14,4.2.01,4,Salários e encargos - doc 73471,18229.33
+517,2025-07-14,4.4.02,2,Energia e utilidades - doc 27555,8474.49
+518,2025-07-15,4.2.02,2,Benefícios - doc 26059,6017.19
+519,2025-07-15,4.4.05,3,Viagens - doc 89463,662.53
+520,2025-07-16,3.1.01,1,Venda de mercadorias - doc 51553,54008.52
+521,2025-07-16,5.1.02,3,Despesas financeiras - doc 53416,3986.63
+522,2025-07-17,3.1.01,1,Venda de mercadorias - doc 62187,34599.31
+523,2025-07-17,3.2.02,1,Devoluções - doc 30056,23567.75
+524,2025-07-17,4.3.01,1,Marketing e publicidade - doc 86460,5091.54
+525,2025-07-17,4.4.05,1,Viagens - doc 15938,1116.49
+526,2025-07-17,4.4.05,3,Viagens - doc 29521,616.61
+527,2025-07-19,3.2.01,1,Impostos sobre vendas - doc 26912,46940.44
+528,2025-07-19,4.4.03,4,Software e licenças - doc 57516,3021.33
+529,2025-07-19,5.1.02,3,Despesas financeiras - doc 12180,4056.99
+530,2025-07-20,4.3.02,1,Comissões de vendas - doc 75873,10072.74
+531,2025-07-20,4.4.04,3,Serviços de terceiros - doc 25572,2270.56
+532,2025-07-21,3.1.01,1,Venda de mercadorias - doc 90209,77084.71
+533,2025-07-21,4.2.01,2,Salários e encargos - doc 75278,17422.2
+534,2025-07-21,4.3.02,1,Comissões de vendas - doc 79924,9056.31
+535,2025-07-21,4.4.01,3,Aluguel - doc 47453,5819.65
+536,2025-07-22,3.1.02,1,Prestação de serviços - doc 77811,89801.33
+537,2025-07-22,4.2.01,3,Salários e encargos - doc 69446,6608.54
+538,2025-07-22,4.3.03,2,Fretes sobre vendas - doc 89316,23176.35
+539,2025-07-22,4.4.01,3,Aluguel - doc 80345,8174.49
+540,2025-07-23,3.1.01,1,Venda de mercadorias - doc 58353,61931.88
+541,2025-07-23,3.1.01,1,Venda de mercadorias - doc 71263,36755.23
+542,2025-07-23,3.1.01,1,Venda de mercadorias - doc 27009,61414.57
+543,2025-07-24,4.2.02,1,Benefícios - doc 27139,1290.65
+544,2025-07-24,4.2.02,4,Benefícios - doc 34881,1677.46
+545,2025-07-25,3.2.01,1,Impostos sobre vendas - doc 75911,78538.79
+546,2025-07-26,3.1.01,1,Venda de mercadorias - doc 18617,32699.85
+547,2025-07-26,3.1.01,1,Venda de mercadorias - doc 63665,75486.69
+548,2025-07-26,3.1.01,1,Venda de mercadorias - doc 26426,62214.92
+549,2025-07-26,4.2.01,3,Salários e encargos - doc 48985,9408.3
+550,2025-07-26,4.4.04,4,Serviços de terceiros - doc 83116,4567.12
+551,2025-07-27,4.4.01,3,Aluguel - doc 71680,4086.48
+552,2025-07-27,4.4.04,,Serviços de terceiros - doc 90090,1803.4
+553,2025-07-28,3.1.01,1,Venda de mercadorias - doc 82616,31775.66
+554,2025-07-28,4.2.02,1,Benefícios - doc 58567,2028.78
+555,2025-07-28,4.2.02,3,Benefícios - doc 42541,1182.15
+556,2025-07-30,3.1.01,1,Venda de mercadorias - doc 82305,57191.43
+557,2025-07-31,4.1.01,2,Custo das mercadorias vendidas - doc 47230,205028.73
+558,2025-07-31,4.1.01,2,Custo das mercadorias vendidas - doc 20336,301397.43
+559,2025-07-31,4.2.02,3,Benefícios - doc 90658,2038.77
+560,2025-07-31,4.3.01,1,Marketing e publicidade - doc 41552,4935.54
+561,2025-08-01,4.3.01,1,Marketing e publicidade - doc 40972,8318.6
+562,2025-08-02,3.1.01,1,Venda de mercadorias - doc 42311,45848.08
+563,2025-08-02,4.1.01,2,Custo das mercadorias vendidas - doc 39579,266833.97
+564,2025-08-02,4.2.01,1,Salários e encargos - doc 95498,6206.95
+565,2025-08-03,5.1.02,3,Despesas financeiras - doc 14159,4457.73
+566,2025-08-04,4.2.01,4,Salários e encargos - doc 47298,8433.04
+567,2025-08-04,4.2.02,1,Benefícios - doc 94972,1173.81
+568,2025-08-04,4.4.05,1,Viagens - doc 36922,1235.2
+569,2025-08-05,3.1.01,1,Venda de mercadorias - doc 83149,57105.37
+570,2025-08-05,4.2.02,4,Benefícios - doc 42512,849.91
+571,2025-08-06,4.2.01,2,Salários e encargos - doc 64773,29986.44
+572,2025-08-06,4.2.02,1,Benefícios - doc 34405,1430.4
+573,2025-08-06,4.3.03,2,Fretes sobre vendas - doc 95575,31542.37
+574,2025-08-06,4.4.01,3,Aluguel - doc 63138,18274.24
+575,2025-08-07,3.1.01,1,Venda de mercadorias - doc 79878,37768.91
+576,2025-08-07,3.1.01,1,Venda de mercadorias - doc 39473,41159.76
+577,2025-08-07,3.2.02,1,Devoluções - doc 80592,8733.19
+578,2025-08-07,3.2.02,1,Devoluções - doc 45537,7089.37
+579,2025-08-07,5.1.01,3,Receitas financeiras - doc 15936,841.84
+580,2025-08-08,4.1.01,2,Custo das mercadorias vendidas - doc 79604,152415.14
+581,2025-08-08,4.4.02,2,Energia e utilidades - doc 72676,3057.68
+582,2025-08-09,4.3.01,1,Marketing e publicidade - doc 18142,4587.98
+583,2025-08-11,3.1.01,1,Venda de mercadorias - doc 47880,34706.85
+584,2025-08-11,3.1.01,1,Venda de mercadorias - doc 55718,42964.32
+585,2025-08-11,4.2.01,4,Salários e encargos - doc 94058,6541.65
+586,2025-08-11,4.2.02,1,Benefícios - doc 43720,1858.65
+587,2025-08-11,4.2.02,4,Benefícios - doc 44181,991.92
+588,2025-08-12,4.4.02,2,Energia e utilidades - doc 38721,2526.34
+589,2025-08-12,4.4.03,4,Software e licenças - doc 81989,4675.65
+590,2025-08-13,3.1.01,1,Venda de mercadorias - doc 72888,44005.17
+591,2025-08-13,3.1.02,1,Prestação de serviços - doc 29198,34712.45
+592,2025-08-13,4.2.01,3,Salários e encargos - doc 34420,5944.15
+593,2025-08-13,4.2.02,3,Benefícios - doc 77538,3015.84
+594,2025-08-14,3.1.01,1,Venda de mercadorias - doc 32699,28506.54
+595,2025-08-14,3.1.01,1,Venda de mercadorias - doc 54869,65409.63
+596,2025-08-14,4.4.03,4,Software e licenças - doc 71712,7289.47
+597,2025-08-14,4.4.05,3,Viagens - doc 83242,364.3
+598,2025-08-15,4.4.05,3,Viagens - doc 70604,471.86
+599,2025-08-16,3.1.01,1,Venda de mercadorias - doc 94319,54038.14
+600,2025-08-16,3.1.01,1,Venda de mercadorias - doc 74094,56139.17
+601,2025-08-16,4.2.02,4,Benefícios - doc 10895,1693.7
+602,2025-08-16,4.3.02,1,Comissões de vendas - doc 99285,23866.68
+603,2025-08-17,3.1.01,1,Venda de mercadorias - doc 81601,64162.57
+604,2025-08-17,3.1.01,1,Venda de mercadorias - doc 49124,59603.57
+605,2025-08-17,3.1.01,1,Venda de mercadorias - doc 51555,32302.69
+606,2025-08-17,4.4.04,4,Serviços de terceiros - doc 29641,1123.8
+607,2025-08-17,4.4.05,3,Viagens - doc 17567,213.07
+608,2025-08-18,3.1.01,1,Venda de mercadorias - doc 49008,61803.98
+609,2025-08-18,4.4.04,4,Serviços de terceiros - doc 85065,1581.94
+610,2025-08-19,4.3.01,1,Marketing e publicidade - doc 57127,7172.8
+611,2025-08-19,4.4.05,3,Viagens - doc 98181,343.76
+612,2025-08-19,5.1.01,3,Receitas financeiras - doc 65534,1236.95
+613,2025-08-20,3.1.01,1,Venda de mercadorias - doc 98587,51294.06
+614,2025-08-20,4.4.02,2,Energia e utilidades - doc 27507,2416.86
+615,2025-08-20,4.4.04,3,Serviços de terceiros - doc 20730,2391.0
+616,2025-08-21,4.2.01,1,Salários e encargos - doc 21725,8673.85
+617,2025-08-22,3.1.01,1,Venda de mercadorias - doc 37168,50155.9
+618,2025-08-22,4.1.01,2,Custo das mercadorias vendidas - doc 93616,259934.82
+619,2025-08-22,4.4.05,1,Viagens - doc 86434,1521.93
+620,2025-08-23,3.1.01,1,Venda de mercadorias - doc 70249,42859.57
+621,2025-08-23,3.1.01,1,Venda de mercadorias - doc 46569,47895.5
+622,2025-08-23,3.2.01,1,Impostos sobre vendas - doc 20358,231678.08
+623,2025-08-23,4.3.02,1,Comissões de vendas - doc 23178,14437.88
+624,2025-08-24,3.1.01,1,Venda de mercadorias - doc 73462,34021.63
+625,2025-08-24,3.1.01,1,Venda de mercadorias - doc 35200,25782.66
+626,2025-08-24,4.3.01,1,Marketing e publicidade - doc 95679,4207.95
+627,2025-08-24,5.1.01,3,Receitas financeiras - doc 19572,1149.4
+628,2025-08-25,3.1.01,1,Venda de mercadorias - doc 56437,52806.87
+629,2025-08-25,4.2.01,1,Salários e encargos - doc 40437,7287.01
+630,2025-08-26,4.2.02,1,Benefícios - doc 70150,2571.31
+631,2025-08-26,4.2.02,2,Benefícios - doc 48669,5965.35
+632,2025-08-27,3.1.02,1,Prestação de serviços - doc 48070,33733.11
+633,2025-08-27,3.2.02,1,Devoluções - doc 83664,7649.7
+634,2025-08-27,4.2.01,3,Salários e encargos - doc 74930,15891.89
+635,2025-08-27,4.4.04,4,Serviços de terceiros - doc 36497,1887.37
+636,2025-08-28,3.1.01,1,Venda de mercadorias - doc 44650,68836.83
+637,2025-08-28,3.1.01,1,Venda de mercadorias - doc 89963,50431.99
+638,2025-08-28,4.4.04,3,Serviços de terceiros - doc 78879,2236.54
+639,2025-08-29,3.1.02,1,Prestação de serviços - doc 55237,25474.33
+640,2025-08-29,4.2.02,3,Benefícios - doc 66059,1502.18
+641,2025-08-29,4.4.04,4,Serviços de terceiros - doc 80341,2601.57
+642,2025-08-29,5.1.02,3,Despesas financeiras - doc 71875,5139.43
+643,2025-08-30,3.1.01,1,Venda de mercadorias - doc 99226,35798.0
+644,2025-08-30,4.2.01,1,Salários e encargos - doc 85252,12990.72
+645,2025-08-30,4.2.01,4,Salários e encargos - doc 69552,3119.44
+646,2025-08-30,4.3.03,2,Fretes sobre vendas - doc 63334,15170.74
+647,2025-08-30,5.1.02,3,Despesas financeiras - doc 47629,2398.72
+648,2025-09-01,3.1.01,1,Venda de mercadorias - doc 14222,35382.32
+649,2025-09-01,4.2.02,3,Benefícios - doc 86550,1777.55
+650,2025-09-01,4.4.04,4,Serviços de terceiros - doc 80220,2358.35
+651,2025-09-03,4.3.03,2,Fretes sobre vendas - doc 22119,10106.76
+652,2025-09-03,4.4.01,3,Aluguel - doc 97584,16923.38
+653,2025-09-04,4.2.02,2,Benefícios - doc 36624,1233.43
+654,2025-09-05,3.1.01,1,Venda de mercadorias - doc 16380,34447.09
+655,2025-09-05,3.1.02,1,Prestação de serviços - doc 47914,43628.18
+656,2025-09-05,4.2.02,3,Benefícios - doc 82523,1528.96
+657,2025-09-05,4.3.02,1,Comissões de vendas - doc 83713,9361.45
+658,2025-09-05,4.4.05,1,Viagens - doc 79003,921.16
+659,2025-09-06,4.3.01,1,Marketing e publicidade - doc 17698,5579.14
+660,2025-09-07,3.1.01,1,Venda de mercadorias - doc 15798,49727.81
+661,2025-09-07,4.2.01,2,Salários e encargos - doc 87015,29368.49
+662,2025-09-07,4.4.03,4,Software e licenças - doc 69770,5477.14
+663,2025-09-07,4.4.05,1,Viagens - doc 56457,428.09
+664,2025-09-08,3.1.01,1,Venda de mercadorias - doc 14400,81527.33
+665,2025-09-08,3.1.01,1,Venda de mercadorias - doc 68515,76538.69
+666,2025-09-08,3.2.01,1,Impostos sobre vendas - doc 28777,71188.29
+667,2025-09-08,4.2.02,4,Benefícios - doc 99764,872.41
+668,2025-09-08,4.4.05,1,Viagens - doc 43084,994.23
+669,2025-09-08,4.4.05,3,Viagens - doc 95686,502.43
+670,2025-09-09,3.1.01,1,Venda de mercadorias - doc 42077,83125.55
+671,2025-09-09,4.2.02,3,Benefícios - doc 85909,1206.65
+672,2025-09-09,4.4.04,4,Serviços de terceiros - doc 75826,1853.95
+673,2025-09-10,3.1.01,1,Venda de mercadorias - doc 96533,63563.05
+674,2025-09-10,3.2.01,1,Impostos sobre vendas - doc 96535,84076.05
+675,2025-09-10,4.2.01,3,Salários e encargos - doc 37762,13083.63
+676,2025-09-10,4.4.05,3,Viagens - doc 95182,330.18
+677,2025-09-11,4.1.01,2,Custo das mercadorias vendidas - doc 49306,225996.97
+678,2025-09-11,4.2.01,3,Salários e encargos - doc 12009,9356.91
+679,2025-09-11,4.2.02,1,Benefícios - doc 47101,3903.4
+680,2025-09-11,5.1.02,3,Despesas financeiras - doc 15577,4601.54
+681,2025-09-12,3.1.01,1,Venda de mercadorias - doc 98083,75744.26
+682,2025-09-13,3.1.01,1,Venda de mercadorias - doc 23224,48861.26
+683,2025-09-13,4.1.01,2,Custo das mercadorias vendidas - doc 64568,208707.86
+684,2025-09-13,5.1.01,3,Receitas financeiras - doc 82443,2947.8
+685,2025-09-14,3.1.01,1,Venda de mercadorias - doc 37011,52816.99
+686,2025-09-14,4.4.02,2,Energia e utilidades - doc 28021,7825.12
+687,2025-09-14,5.1.02,3,Despesas financeiras - doc 84167,2559.35
+688,2025-09-15,3.1.01,1,Venda de mercadorias - doc 64950,68450.01
+689,2025-09-15,3.1.01,1,Venda de mercadorias - doc 88352,35246.5
+690,2025-09-15,4.2.02,2,Benefícios - doc 51973,1391.66
+691,2025-09-15,4.3.03,2,Fretes sobre vendas - doc 34966,11210.44
+692,2025-09-16,4.2.01,4,Salários e encargos - doc 89220,5334.79
+693,2025-09-16,4.2.02,2,Benefícios - doc 71537,1674.11
+694,2025-09-16,4.2.02,4,Benefícios - doc 54245,763.79
+695,2025-09-16,4.3.01,1,Marketing e publicidade - doc 94123,8070.88
+696,2025-09-17,3.1.02,1,Prestação de serviços - doc 40692,44382.15
+697,2025-09-17,4.1.01,2,Custo das mercadorias vendidas - doc 29558,166913.77
+698,2025-09-17,4.4.03,4,Software e licenças - doc 58916,6278.14
+699,2025-09-17,4.4.04,4,Serviços de terceiros - doc 47576,1049.16
+700,2025-09-18,3.1.01,1,Venda de mercadorias - doc 41544,77473.04
+701,2025-09-18,3.1.01,1,Venda de mercadorias - doc 18819,78908.62
+702,2025-09-18,3.2.02,1,Devoluções - doc 32955,13498.84
+703,2025-09-18,4.2.02,4,Benefícios - doc 43728,800.9
+704,2025-09-18,4.3.01,1,Marketing e publicidade - doc 81058,6290.48
+705,2025-09-19,3.2.02,1,Devoluções - doc 92050,11453.73
+706,2025-09-20,4.4.05,1,Viagens - doc 45038,420.54
+707,2025-09-21,4.2.02,4,Benefícios - doc 74044,1173.67
+708,2025-09-21,4.3.03,2,Fretes sobre vendas - doc 58637,16852.02
+709,2025-09-21,5.1.02,3,Despesas financeiras - doc 22499,2344.59
+710,2025-09-22,3.1.01,1,Venda de mercadorias - doc 90599,81507.18
+711,2025-09-22,4.2.01,1,Salários e encargos - doc 89294,35070.87
+712,2025-09-22,4.4.04,3,Serviços de terceiros - doc 90808,5138.67
+713,2025-09-22,4.4.05,3,Viagens - doc 14152,255.88
+714,2025-09-23,4.3.02,1,Comissões de vendas - doc 17552,13113.26
+715,2025-09-23,4.4.05,3,Viagens - doc 20566,199.35
+716,2025-09-24,3.1.01,1,Venda de mercadorias - doc 12050,48692.24
+717,2025-09-24,3.1.01,1,Venda de mercadorias - doc 40715,74326.31
+718,2025-09-24,4.4.04,4,Serviços de terceiros - doc 12246,2099.84
+719,2025-09-25,3.1.01,1,Venda de mercadorias - doc 24790,37863.11
+720,2025-09-25,4.2.01,4,Salários e encargos - doc 41797,12635.15
+721,2025-09-25,4.2.02,1,Benefícios - doc 59894,3218.6
+722,2025-09-26,4.1.01,2,Custo das mercadorias vendidas - doc 63511,108101.47
+723,2025-09-26,4.2.02,2,Benefícios - doc 58589,1640.37
+724,2025-09-26,4.3.02,1,Comissões de vendas - doc 64090,9164.05
+725,2025-09-26,5.1.02,3,Despesas financeiras - doc 79226,3089.83
+726,2025-09-27,3.1.01,1,Venda de mercadorias - doc 87849,32309.81
+727,2025-09-28,4.3.02,1,Comissões de vendas - doc 70689,8640.18
+728,2025-09-29,3.1.01,1,Venda de mercadorias - doc 67535,82339.18
+729,2025-09-29,3.2.01,1,Impostos sobre vendas - doc 78321,87104.96
+730,2025-09-30,3.1.01,1,Venda de mercadorias - doc 62725,34932.3
+731,2025-09-30,4.3.01,1,Marketing e publicidade - doc 78674,4189.77
+732,2025-09-30,4.3.03,2,Fretes sobre vendas - doc 80206,11840.37
+733,2025-10-01,4.3.02,1,Comissões de vendas - doc 60829,15259.54
+734,2025-10-01,5.1.02,3,Despesas financeiras - doc 94930,2843.08
+735,2025-10-03,3.1.02,1,Prestação de serviços - doc 19634,16658.28
+736,2025-10-03,3.2.02,1,Devoluções - doc 50405,10242.69
+737,2025-10-03,4.4.01,3,Aluguel - doc 72814,5840.25
+738,2025-10-04,3.2.02,1,Devoluções - doc 10680,15547.62
+739,2025-10-04,4.4.05,1,Viagens - doc 64522,1733.69
+740,2025-10-05,3.1.01,1,Venda de mercadorias - doc 13883,85086.05
+741,2025-10-06,3.1.01,1,Venda de mercadorias - doc 20279,48338.15
+742,2025-10-07,4.2.01,3,Salários e encargos - doc 27758,9439.31
+743,2025-10-07,4.2.02,3,Benefícios - doc 87624,4448.16
+744,2025-10-08,3.1.01,1,Venda de mercadorias - doc 55332,94279.18
+745,2025-10-08,4.2.02,2,Benefícios - doc 61502,1604.87
+746,2025-10-09,4.2.01,1,Salários e encargos - doc 45180,22089.26
+747,2025-10-09,4.4.04,3,Serviços de terceiros - doc 39098,5089.98
+748,2025-10-10,4.2.01,1,Salários e encargos - doc 74634,12476.67
+749,2025-10-10,4.2.01,2,Salários e encargos - doc 20082,18561.35
+750,2025-10-10,4.4.05,1,Viagens - doc 21253,1076.29
+751,2025-10-11,3.1.01,1,Venda de mercadorias - doc 90460,97079.38
+752,2025-10-11,4.2.02,1,Benefícios - doc 36326,1935.45
+753,2025-10-11,4.2.02,2,Benefícios - doc 57843,1330.95
+754,2025-10-11,5.1.02,3,Despesas financeiras - doc 98754,6069.28
+755,2025-10-12,5.1.01,3,Receitas financeiras - doc 67431,1139.92
+756,2025-10-13,3.1.01,1,Venda de mercadorias - doc 40427,96863.21
+757,2025-10-13,3.1.01,1,Venda de mercadorias - doc 88067,55341.22
+758,2025-10-13,3.1.02,1,Prestação de serviços - doc 42302,21266.3
+759,2025-10-13,3.2.01,1,Impostos sobre vendas - doc 93086,243441.77
+760,2025-10-13,4.2.01,4,Salários e encargos - doc 53193,3340.91
+761,2025-10-13,4.3.02,1,Comissões de vendas - doc 64238,13031.82
+762,2025-10-14,4.2.01,2,Salários e encargos - doc 73469,11185.68
+763,2025-10-14,4.3.01,1,Marketing e publicidade - doc 93012,10370.25
+764,2025-10-15,4.1.01,2,Custo das mercadorias vendidas - doc 63483,215827.23
+765,2025-10-15,4.4.01,3,Aluguel - doc 86315,6125.41
+766,2025-10-16,4.3.01,1,Marketing e publicidade - doc 41722,10498.83
+767,2025-10-16,5.1.01,3,Receitas financeiras - doc 22795,968.76
+768,2025-10-16,5.1.01,3,Receitas financeiras - doc 69303,843.44
+769,2025-10-17,4.1.01,2,Custo das mercadorias vendidas - doc 21746,172525.69
+770,2025-10-18,3.1.01,1,Venda de mercadorias - doc 89320,36208.7
+771,2025-10-18,4.1.01,2,Custo das mercadorias vendidas - doc 23538,193200.58
+772,2025-10-18,4.1.01,2,Custo das mercadorias vendidas - doc 13442,158750.39
+773,2025-10-18,4.3.03,2,Fretes sobre vendas - doc 41816,66334.75
+774,2025-10-18,4.4.02,2,Energia e utilidades - doc 21138,1650.97
+775,2025-10-19,3.1.01,1,Venda de mercadorias - doc 75639,92958.48
+776,2025-10-19,3.1.01,1,Venda de mercadorias - doc 17038,66281.63
+777,2025-10-19,3.1.02,1,Prestação de serviços - doc 91083,17688.29
+778,2025-10-19,4.2.02,2,Benefícios - doc 59290,1972.55
+779,2025-10-20,4.2.01,3,Salários e encargos - doc 70012,6306.94
+780,2025-10-20,4.2.01,3,Salários e encargos - doc 24021,6264.07
+781,2025-10-20,4.2.02,1,Benefícios - doc 72784,2000.23
+782,2025-10-20,4.4.01,3,Aluguel - doc 62534,6497.59
+783,2025-10-20,4.4.02,2,Energia e utilidades - doc 24335,2041.82
+784,2025-10-21,4.4.02,2,Energia e utilidades - doc 42536,1359.71
+785,2025-10-21,4.4.03,4,Software e licenças - doc 62378,2733.82
+786,2025-10-21,4.4.03,4,Software e licenças - doc 66420,4362.14
+787,2025-10-22,3.1.01,1,Venda de mercadorias - doc 19963,95078.05
+788,2025-10-22,3.1.02,1,Prestação de serviços - doc 48715,25580.91
+789,2025-10-22,4.3.01,1,Marketing e publicidade - doc 49692,4433.56
+790,2025-10-22,4.4.03,4,Software e licenças - doc 53463,4565.05
+791,2025-10-22,4.4.04,4,Serviços de terceiros - doc 75597,3602.62
+792,2025-10-23,3.1.01,1,Venda de mercadorias - doc 45825,61035.89
+793,2025-10-23,4.2.02,1,Benefícios - doc 33283,935.92
+794,2025-10-24,3.1.01,1,Venda de mercadorias - doc 52778,73860.08
+795,2025-10-24,3.1.01,1,Venda de mercadorias - doc 69054,39200.77
+796,2025-10-24,4.2.02,4,Benefícios - doc 37479,1633.99
+797,2025-10-24,4.4.05,3,Viagens - doc 28569,1470.09
+798,2025-10-25,3.1.01,1,Venda de mercadorias - doc 61996,99301.42
+799,2025-10-25,4.4.04,4,Serviços de terceiros - doc 87147,3823.54
+800,2025-10-26,3.1.01,1,Venda de mercadorias - doc 93115,82399.25
+801,2025-10-26,4.2.01,4,Salários e encargos - doc 67700,5904.94
+802,2025-10-26,4.2.02,2,Benefícios - doc 46739,1062.94
+803,2025-10-26,4.3.01,1,Marketing e publicidade - doc 28242,10108.55
+804,2025-10-27,3.1.01,1,Venda de mercadorias - doc 22803,37136.86
+805,2025-10-28,3.1.01,1,Venda de mercadorias - doc 67290,39024.82
+806,2025-10-28,4.2.01,4,Salários e encargos - doc 53874,8844.73
+807,2025-10-28,4.3.02,1,Comissões de vendas - doc 48253,12524.47
+808,2025-10-28,5.1.02,3,Despesas financeiras - doc 24334,2730.33
+809,2025-10-29,3.1.01,1,Venda de mercadorias - doc 54642,72261.56
+810,2025-10-30,4.4.02,2,Energia e utilidades - doc 96193,2207.57
+811,2025-10-31,4.2.02,1,Benefícios - doc 51180,2169.01
+812,2025-10-31,4.2.02,4,Benefícios - doc 70505,1838.79
+813,2025-11-01,4.2.01,1,Salários e encargos - doc 48284,8399.93
+814,2025-11-02,4.2.02,4,Benefícios - doc 55982,1783.17
+815,2025-11-02,4.3.02,1,Comissões de vendas - doc 11256,14294.29
+816,2025-11-03,3.1.01,1,Venda de mercadorias - doc 51078,124709.29
+817,2025-11-03,4.4.04,3,Serviços de terceiros - doc 62802,1430.7
+818,2025-11-04,3.1.01,1,Venda de mercadorias - doc 60939,65959.12
+819,2025-11-05,3.2.02,1,Devoluções - doc 60916,15623.82
+820,2025-11-05,4.4.03,4,Software e licenças - doc 52217,7658.56
+821,2025-11-06,3.1.01,1,Venda de mercadorias - doc 24972,132910.28
+822,2025-11-07,3.1.01,1,Venda de mercadorias - doc 69972,137409.99
+823,2025-11-07,3.1.01,1,Venda de mercadorias - doc 24936,119206.22
+824,2025-11-07,3.1.01,1,Venda de mercadorias - doc 70012,48475.68
+825,2025-11-07,4.4.05,1,Viagens - doc 52318,682.06
+826,2025-11-08,4.2.01,1,Salários e encargos - doc 39470,5345.39
+827,2025-11-09,3.1.01,1,Venda de mercadorias - doc 44387,97633.07
+828,2025-11-10,3.1.02,1,Prestação de serviços - doc 90541,50507.77
+829,2025-11-10,4.3.01,1,Marketing e publicidade - doc 45041,13159.05
+830,2025-11-10,4.3.01,1,Marketing e publicidade - doc 77425,8018.55
+831,2025-11-11,3.1.01,1,Venda de mercadorias - doc 56135,89326.42
+832,2025-11-11,3.2.01,1,Impostos sobre vendas - doc 25448,325569.11
+833,2025-11-11,4.4.05,3,Viagens - doc 16021,469.92
+834,2025-11-12,3.1.01,1,Venda de mercadorias - doc 55603,91250.47
+835,2025-11-12,4.2.02,2,Benefícios - doc 21401,5976.01
+836,2025-11-12,4.2.02,3,Benefícios - doc 31755,801.15
+837,2025-11-12,4.3.02,1,Comissões de vendas - doc 27895,21230.6
+838,2025-11-14,4.4.05,1,Viagens - doc 74843,1025.77
+839,2025-11-15,4.2.01,4,Salários e encargos - doc 81611,18271.19
+840,2025-11-15,4.4.04,3,Serviços de terceiros - doc 22202,1313.89
+841,2025-11-16,4.2.01,2,Salários e encargos - doc 24838,9991.43
+842,2025-11-16,4.4.05,3,Viagens - doc 99463,369.26
+843,2025-11-17,4.3.03,2,Fretes sobre vendas - doc 74876,41948.26
+844,2025-11-18,3.1.01,1,Venda de mercadorias - doc 86939,118908.21
+845,2025-11-18,4.1.01,2,Custo das mercadorias vendidas - doc 32706,268067.82
+846,2025-11-18,4.2.01,2,Salários e encargos - doc 85066,12967.99
+847,2025-11-18,4.2.01,3,Salários e encargos - doc 58085,22509.56
+848,2025-11-19,3.1.01,1,Venda de mercadorias - doc 88246,108565.58
+849,2025-11-19,4.2.02,3,Benefícios - doc 92938,696.76
+850,2025-11-19,4.3.01,1,Marketing e publicidade - doc 99037,17743.64
+851,2025-11-21,4.1.01,2,Custo das mercadorias vendidas - doc 74178,241233.4
+852,2025-11-21,4.2.02,1,Benefícios - doc 49021,1987.35
+853,2025-11-21,4.3.03,2,Fretes sobre vendas - doc 63626,46688.22
+854,2025-11-21,4.4.04,3,Serviços de terceiros - doc 77582,1020.77
+855,2025-11-23,3.1.01,1,Venda de mercadorias - doc 74157,79854.88
+856,2025-11-23,3.2.02,1,Devoluções - doc 76954,18422.09
+857,2025-11-23,4.1.01,2,Custo das mercadorias vendidas - doc 82733,262781.95
+858,2025-11-23,4.2.02,3,Benefícios - doc 66120,1480.55
+859,2025-11-23,4.4.03,4,Software e licenças - doc 42447,4033.12
+860,2025-11-24,4.2.02,3,Benefícios - doc 89988,1540.82
+861,2025-11-25,3.1.01,1,Venda de mercadorias - doc 97910,101084.49
+862,2025-11-25,4.2.01,1,Salários e encargos - doc 46025,9070.26
+863,2025-11-25,4.2.01,2,Salários e encargos - doc 76952,6974.01
+864,2025-11-25,4.4.01,3,Aluguel - doc 63948,16376.0
+865,2025-11-25,4.4.04,4,Serviços de terceiros - doc 70089,2318.19
+866,2025-11-26,3.1.01,1,Venda de mercadorias - doc 79168,89020.5
+867,2025-11-26,3.1.01,1,Venda de mercadorias - doc 93769,92449.67
+868,2025-11-26,3.1.01,1,Venda de mercadorias - doc 90125,111212.79
+869,2025-11-26,4.2.01,1,Salários e encargos - doc 14285,12292.08
+870,2025-11-26,4.2.02,4,Benefícios - doc 84720,1744.24
+871,2025-11-26,4.4.04,3,Serviços de terceiros - doc 46467,1214.0
+872,2025-11-26,4.4.05,3,Viagens - doc 16345,475.12
+873,2025-11-27,4.2.02,1,Benefícios - doc 42444,4914.69
+874,2025-11-27,4.4.05,1,Viagens - doc 45197,984.42
+875,2025-11-27,5.1.01,3,Receitas financeiras - doc 70238,2757.23
+876,2025-11-28,3.1.01,1,Venda de mercadorias - doc 61451,86061.99
+877,2025-11-28,4.3.02,1,Comissões de vendas - doc 73518,18185.08
+878,2025-11-28,4.4.02,2,Energia e utilidades - doc 95969,7389.96
+879,2025-11-28,4.4.04,4,Serviços de terceiros - doc 22208,2239.94
+880,2025-11-28,4.4.04,4,Serviços de terceiros - doc 93209,2538.53
+881,2025-11-28,5.1.02,3,Despesas financeiras - doc 30707,12158.01
+882,2025-11-30,3.1.02,1,Prestação de serviços - doc 87354,46365.24
+883,2025-11-30,4.1.01,2,Custo das mercadorias vendidas - doc 31871,225676.0
+884,2025-12-01,3.1.01,1,Venda de mercadorias - doc 27451,92087.2
+885,2025-12-01,3.1.01,1,Venda de mercadorias - doc 94092,92232.7
+886,2025-12-01,4.2.01,1,Salários e encargos - doc 27299,7734.52
+887,2025-12-01,4.2.01,2,Salários e encargos - doc 44365,7902.63
+888,2025-12-01,4.3.01,1,Marketing e publicidade - doc 11487,10385.43
+889,2025-12-01,4.4.04,4,Serviços de terceiros - doc 42053,6645.87
+890,2025-12-03,3.1.01,1,Venda de mercadorias - doc 23425,64087.29
+891,2025-12-03,3.1.01,1,Venda de mercadorias - doc 67684,62259.04
+892,2025-12-03,3.1.01,1,Venda de mercadorias - doc 92323,47799.64
+893,2025-12-03,3.2.02,1,Devoluções - doc 88644,7339.27
+894,2025-12-03,4.2.01,2,Salários e encargos - doc 11807,7403.31
+895,2025-12-03,4.2.01,4,Salários e encargos - doc 80471,5419.79
+896,2025-12-03,4.2.02,2,Benefícios - doc 41278,2374.76
+897,2025-12-04,3.1.01,1,Venda de mercadorias - doc 79534,78022.8
+898,2025-12-04,3.2.01,1,Impostos sobre vendas - doc 87276,291288.04
+899,2025-12-05,3.1.01,1,Venda de mercadorias - doc 23526,99954.07
+900,2025-12-05,3.1.01,1,Venda de mercadorias - doc 95199,82141.96
+901,2025-12-05,3.1.01,1,Venda de mercadorias - doc 95199,82141.96
+902,2025-12-05,4.3.01,1,Marketing e publicidade - doc 75065,6017.5
+903,2025-12-05,4.4.01,3,Aluguel - doc 13847,6240.12
+904,2025-12-06,4.4.01,3,Aluguel - doc 45227,5229.24
+905,2025-12-06,4.4.03,4,Software e licenças - doc 23487,2502.32
+906,2025-12-08,3.1.01,1,Venda de mercadorias - doc 58177,100212.41
+907,2025-12-08,3.1.01,1,Venda de mercadorias - doc 56030,39610.7
+908,2025-12-08,3.2.02,1,Devoluções - doc 89638,10195.47
+909,2025-12-08,5.1.02,3,Despesas financeiras - doc 16019,3288.7
+910,2025-12-09,4.4.03,4,Software e licenças - doc 85223,6124.09
+911,2025-12-11,3.1.01,1,Venda de mercadorias - doc 28724,57649.69
+912,2025-12-11,5.1.01,3,Receitas financeiras - doc 20208,1698.21
+913,2025-12-12,4.2.01,1,Salários e encargos - doc 60703,11877.93
+914,2025-12-12,4.4.01,3,Aluguel - doc 25473,6558.18
+915,2025-12-13,3.1.01,1,Venda de mercadorias - doc 37925,39877.67
+916,2025-12-13,4.2.01,4,Salários e encargos - doc 80328,5926.68
+917,2025-12-13,4.3.02,1,Comissões de vendas - doc 94694,23953.11
+918,2025-12-13,4.4.05,1,Viagens - doc 29671,2782.46
+919,2025-12-14,3.1.01,1,Venda de mercadorias - doc 11110,36970.08
+920,2025-12-15,3.1.01,1,Venda de mercadorias - doc 60164,53725.47
+921,2025-12-15,3.1.02,1,Prestação de serviços - doc 38474,52893.06
+922,2025-12-16,3.1.01,1,Venda de mercadorias - doc 31511,84101.31
+923,2025-12-17,3.1.01,1,Venda de mercadorias - doc 49223,94431.14
+924,2025-12-17,3.1.01,1,Venda de mercadorias - doc 49223,94431.14
+925,2025-12-17,4.2.02,1,Benefícios - doc 36633,3437.04
+926,2025-12-17,4.4.04,3,Serviços de terceiros - doc 10336,4986.05
+927,2025-12-17,5.1.02,3,Despesas financeiras - doc 19034,2934.41
+928,2025-12-18,3.2.02,1,Devoluções - doc 47345,5905.18
+929,2025-12-18,4.4.05,3,Viagens - doc 95944,720.69
+930,2025-12-19,3.1.01,1,Venda de mercadorias - doc 51071,62163.12
+931,2025-12-19,4.2.01,2,Salários e encargos - doc 38277,9102.53
+932,2025-12-19,4.4.02,2,Energia e utilidades - doc 75031,2289.27
+933,2025-12-20,4.2.02,4,Benefícios - doc 17212,3513.01
+934,2025-12-21,3.2.02,1,Devoluções - doc 88774,6724.47
+935,2025-12-21,4.2.02,2,Benefícios - doc 67342,2018.46
+936,2025-12-21,4.4.02,2,Energia e utilidades - doc 69663,1672.13
+937,2025-12-22,3.1.01,1,Venda de mercadorias - doc 27973,92604.74
+938,2025-12-22,4.1.01,2,Custo das mercadorias vendidas - doc 49537,872949.48
+939,2025-12-22,4.2.02,2,Benefícios - doc 50654,1585.04
+940,2025-12-23,3.1.01,1,Venda de mercadorias - doc 98753,39754.14
+941,2025-12-23,3.1.01,1,Venda de mercadorias - doc 89995,75416.17
+942,2025-12-23,4.2.01,4,Salários e encargos - doc 93956,6681.67
+943,2025-12-23,4.3.01,1,Marketing e publicidade - doc 31473,10313.94
+944,2025-12-23,4.4.02,2,Energia e utilidades - doc 20101,3876.16
+945,2025-12-24,4.3.02,1,Comissões de vendas - doc 48737,24148.31
+946,2025-12-24,5.1.01,3,Receitas financeiras - doc 45554,1523.15
+947,2025-12-25,4.2.01,2,Salários e encargos - doc 18851,5416.09
+948,2025-12-25,4.4.03,4,Software e licenças - doc 98358,3004.39
+949,2025-12-26,4.3.03,2,Fretes sobre vendas - doc 41370,78058.02
+950,2025-12-26,4.4.05,3,Viagens - doc 64967,683.59
+951,2025-12-26,5.1.02,3,Despesas financeiras - doc 62550,6229.76
+952,2025-12-27,3.1.01,1,Venda de mercadorias - doc 18966,39022.53
+953,2025-12-28,3.1.01,1,Venda de mercadorias - doc 83831,76977.75
+954,2025-12-28,3.1.02,1,Prestação de serviços - doc 21362,41575.41
+955,2025-12-29,4.2.01,1,Salários e encargos - doc 51480,9245.81
+956,2025-12-30,4.2.01,1,Salários e encargos - doc 84498,5959.54
+957,2025-12-30,4.2.02,1,Benefícios - doc 30365,3580.45
+958,2025-12-30,4.2.02,3,Benefícios - doc 66948,4467.88
+959,2025-12-31,4.2.01,3,Salários e encargos - doc 62163,21523.54

@@ -1,0 +1,18 @@
+conta_id,conta,natureza,orcado,realizado,variacao,variacao_pct,avaliacao
+3.1.01,Venda de mercadorias,receita,14640000.0,14716402.42,76402.42,0.5,favorável
+3.1.02,Prestação de serviços,receita,1080000.0,1102509.12,22509.12,2.1,favorável
+3.2.01,Impostos sobre vendas,despesa,2829600.0,2818835.8,-10764.2,-0.4,favorável
+3.2.02,Devoluções,despesa,292800.0,291808.45,-991.55,-0.3,favorável
+4.1.01,Custo das mercadorias vendidas,despesa,8052000.0,8202931.8,150931.8,1.9,desfavorável
+4.2.01,Salários e encargos,despesa,1260000.0,1259213.5,-786.5,-0.1,favorável
+4.2.02,Benefícios,despesa,252000.0,252450.28,450.28,0.2,desfavorável
+4.3.01,Marketing e publicidade,despesa,300000.0,320407.82,20407.82,6.8,desfavorável
+4.3.02,Comissões de vendas,despesa,471600.0,469170.09,-2429.91,-0.5,favorável
+4.3.03,Fretes sobre vendas,despesa,585600.0,634643.24,49043.24,8.4,desfavorável
+4.4.01,Aluguel,despesa,216000.0,214610.83,-1389.17,-0.6,favorável
+4.4.02,Energia e utilidades,despesa,96000.0,95787.29,-212.71,-0.2,favorável
+4.4.03,Software e licenças,despesa,108000.0,124816.63,16816.63,15.6,desfavorável
+4.4.04,Serviços de terceiros,despesa,144000.0,145855.0,1855.0,1.3,desfavorável
+4.4.05,Viagens,despesa,72000.0,50529.88,-21470.12,-29.8,favorável
+5.1.01,Receitas financeiras,receita,36000.0,36173.66,173.66,0.5,favorável
+5.1.02,Despesas financeiras,despesa,144000.0,145408.4,1408.4,1.0,desfavorável

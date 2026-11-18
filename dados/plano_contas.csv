@@ -1,0 +1,18 @@
+conta_id,conta,grupo,natureza
+3.1.01,Venda de mercadorias,Receita Bruta,receita
+3.1.02,Prestação de serviços,Receita Bruta,receita
+3.2.01,Impostos sobre vendas,Deduções,despesa
+3.2.02,Devoluções,Deduções,despesa
+4.1.01,Custo das mercadorias vendidas,CMV,despesa
+4.2.01,Salários e encargos,Despesas com Pessoal,despesa
+4.2.02,Benefícios,Despesas com Pessoal,despesa
+4.3.01,Marketing e publicidade,Despesas Comerciais,despesa
+4.3.02,Comissões de vendas,Despesas Comerciais,despesa
+4.3.03,Fretes sobre vendas,Despesas Comerciais,despesa
+4.4.01,Aluguel,Despesas Administrativas,despesa
+4.4.02,Energia e utilidades,Despesas Administrativas,despesa
+4.4.03,Software e licenças,Despesas Administrativas,despesa
+4.4.04,Serviços de terceiros,Despesas Administrativas,despesa
+4.4.05,Viagens,Despesas Administrativas,despesa
+5.1.01,Receitas financeiras,Resultado Financeiro,receita
+5.1.02,Despesas financeiras,Resultado Financeiro,despesa

@@ -1,0 +1,3 @@
+# O banco é recriado por gerar_dados.py; os CSVs ficam versionados
+dados/atlas.db
+__pycache__/

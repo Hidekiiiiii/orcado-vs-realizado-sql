@@ -1,0 +1,6 @@
+problema,data,conta_id,descricao,valor,ocorrencias,impacto_no_realizado
+duplicidade,2025-06-12,4.4.05,Viagens - doc 20077,615.72,2,615.72
+duplicidade,2025-12-05,3.1.01,Venda de mercadorias - doc 95199,82141.96,2,82141.96
+duplicidade,2025-12-17,3.1.01,Venda de mercadorias - doc 49223,94431.14,2,94431.14
+sem centro de custo,2025-06-20,4.4.04,Serviços de terceiros - doc 26545,1743.25,1,1743.25
+sem centro de custo,2025-07-27,4.4.04,Serviços de terceiros - doc 90090,1803.4,1,1803.4
